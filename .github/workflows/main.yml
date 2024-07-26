@@ -32,7 +32,7 @@ jobs:
         env:
           # Custom palette settings
           PALETTE: |
-            --snake-color: #xx3300; /* Color of the snake */
+            --snake-color: #FF5733; /* Color of the snake */
             --background-color: #282c34; /* Background color */
 
       # Push the generated SVG files to the output branch
