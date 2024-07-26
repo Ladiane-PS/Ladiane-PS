@@ -32,8 +32,8 @@ jobs:
         env:
           # Custom palette settings
           PALETTE: |
-            --snake-color: #FF5733; /* Color of the snake */
-            --background-color: #282c34; /* Background color */
+            snake-color: #FF00; /* Color of the snake */
+            background-color: #282c34; /* Background color */
 
       # Push the generated SVG files to the output branch
       - name: Push github-contribution-grid-snake.svg to the output branch
