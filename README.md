@@ -1,4 +1,20 @@
 ## Hi there 👋
+# Ladiane Pinheiro Santana ✨✨✨
+
+## Sobre  
+Sou apaixonada por tecnologia e estou sempre buscando aprender um pouco de tudo! Me interesso principalmente por áreas como análise de dados, computação em nuvem, desenvolvimento web e segurança digital. 💻☁📊
+
+## Estudos  
+👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+## Me encontre  
+📫 aladydyljc@gmail.com 
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ladiane-pinheiro-santana)
+
+## Pronomes  
+😄 ela | dela
+
 
 <!--
 **Ladiane-PS/Ladiane-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
